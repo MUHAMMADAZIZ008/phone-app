@@ -1,0 +1,5 @@
+1. auth gourd lar ni qayta qilish ✅
+2. order porductni tugatish ✅
+3. relationlarni to'g'rilash
+4. swagger yozish✅
+5. ci/cd deyloy server ga
